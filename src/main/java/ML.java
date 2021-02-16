@@ -46,8 +46,6 @@ public class ML {
 
     //    static String OTP = "//input[@name='otp']";
 //    static String Login = "//button[@class='buttoncta']";
-//    public static String ACCOUNT_SID = "AC281897df13300173da696fa1a9e8057f";
-//    public static String AUTH_TOKEN = "006206f5329982f9fe75cfd2a6943376";
 
     public static void main(String[] args) throws InterruptedException {
         WebDriver driver = new FirefoxDriver();
